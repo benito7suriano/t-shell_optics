@@ -257,8 +257,12 @@ footer {
 
   .motto {
     width: 100%;
-    font-size: 1rem;
+    /*font-size: 1.33rem;*/
     margin: 0;
+  }
+
+  .motto h1 {
+    font-size: 1rem;
   }
 
   .services {
