@@ -227,6 +227,8 @@ footer {
   header {
     height: 17rem;
     background-position: 20%;
+    width: 100%;
+    background-size: cover;
   }
 
   .ribbon {
@@ -307,9 +309,14 @@ footer {
 
   .logo-bott {
     justify-content: center;
+    align-items: center;
   }
 
   .logo-bott p {
     display: none;
+  }
+
+  .logo-bott img {
+    margin: 4rem auto;
   }
 }
